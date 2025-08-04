@@ -5,5 +5,5 @@ Take a netflix Dataset
 2. Remove duplicate rows using python(pandas) in vs code.
 3. Standardize text values country in a data set
 4. Convert date formats to a consistent type (dd-mm-yyyy).
-Rename column headers to be clean and uniform
-Check and fix data types
+5. Rename column headers to be clean and uniform
+6. Check and fix data types
